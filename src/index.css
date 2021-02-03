@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.mainDIv{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid white;
+  padding: 10px 20px;
+}
+
+.userPost{
+  font-size: 19px;
+}
